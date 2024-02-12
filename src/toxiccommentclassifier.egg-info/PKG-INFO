@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: toxiccommentclassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Rvaibhavv/toxiccommentclassification
+Author: Rvaibhavv
+Author-email: rvaibhav615@gmail.com
+Project-URL: Bug Tracker, https://github.com/Rvaibhavv/toxiccommentclassification/issues

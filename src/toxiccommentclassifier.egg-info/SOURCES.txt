@@ -1,0 +1,14 @@
+setup.py
+src/toxiccommentclassifier/__init__.py
+src/toxiccommentclassifier.egg-info/PKG-INFO
+src/toxiccommentclassifier.egg-info/SOURCES.txt
+src/toxiccommentclassifier.egg-info/dependency_links.txt
+src/toxiccommentclassifier.egg-info/top_level.txt
+src/toxiccommentclassifier/components/__init__.py
+src/toxiccommentclassifier/components/model/__init__.py
+src/toxiccommentclassifier/config/__init__.py
+src/toxiccommentclassifier/config/configuration.py
+src/toxiccommentclassifier/constants/__init__.py
+src/toxiccommentclassifier/entity/__init__.py
+src/toxiccommentclassifier/pipeline/__init__.py
+src/toxiccommentclassifier/utils/__init__.py
