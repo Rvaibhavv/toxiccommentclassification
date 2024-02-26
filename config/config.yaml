@@ -2,7 +2,7 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts\data_ingestion
-  source_destination: C:\Users\rvaib\Downloads\toxic.zip
+  source_destination: C:\Users\rvaib\Downloads\toxiccomment.zip
   local_data_file: artifacts\data_ingestion\data.zip
   unzip_dir: artifacts\data_ingestion
   
@@ -10,9 +10,12 @@ data_exploration:
   root_dir: artifacts\data_exploration
   train_dataset: artifacts\data_ingestion\train.csv
   test_dataset: artifacts\data_ingestion\test.csv
+  train_corpus: artifacts\data_exploration\train_corpus.csv
+  test_corpus: artifacts\data_exploration\test_corpus.csv
 
 
 data_preprocessing:
   root_dir: artifacts\data_preprocessing
   train_dataset: artifacts\data_ingestion\train.csv
   test_dataset: artifacts\data_ingestion\test.csv
+  
